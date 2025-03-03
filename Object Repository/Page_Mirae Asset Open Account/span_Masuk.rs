@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Masuk</name>
+   <tag></tag>
+   <elementGuidId>372c615c-bb29-457c-9410-4d9a1781c496</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='headerLogin']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#headerLogin > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Masuk&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f34f5a6c-0bee-4367-af68-e124658c761d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>b3112dfb-dc9f-442a-9119-cc27262ca856</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/nav[@class=&quot;dms-navbar overflow-hidden navbar navbar-expand-md navbar-dark fixed-top&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;d-none d-sm-none d-md-none d-lg-block d-xl-block&quot;]/div[@class=&quot;d-flex justify-content-end col&quot;]/ul[@class=&quot;right-menu-container navbar-nav d-flex align-items-center justify-content-end&quot;]/li[@class=&quot;nav-item&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/button[@id=&quot;headerLogin&quot;]/span[1]</value>
+      <webElementGuid>07deb719-ed99-4937-a546-20f3acabc7f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='headerLogin']/span</value>
+      <webElementGuid>17970fc9-49a5-4f0c-b18e-52fd5bb38840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/following::span[1]</value>
+      <webElementGuid>f65d34f3-45fe-4c99-818c-3e00a3faa77a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[2]/following::span[2]</value>
+      <webElementGuid>aa036c25-e90f-4a9f-921f-ea5d9048c1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[2]/preceding::span[1]</value>
+      <webElementGuid>68210dcd-b59a-474e-ba8c-cd0fd1f404db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dengan Inovasi, Mudahkan Investasi lewat Ujung Jari'])[1]/preceding::span[2]</value>
+      <webElementGuid>a8c3f0bf-f24e-49e8-829d-18bb87048c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/button/span</value>
+      <webElementGuid>734145de-bf0d-4b3a-9a9b-9b65751f85d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>5d23df05-5711-4031-a7f3-2335113bfd1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

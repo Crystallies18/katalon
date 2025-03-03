@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Username / Password Invalid</description>
+   <name>LoginFailed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7bfa66dc-b725-4bee-b076-c3aeecd81c0c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f5e99780-097e-4639-9e91-e7d21a6a50f5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7eac78b8-ce03-4741-a20c-7fee2cc6174e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'novaliza'</defaultValue>
+      <description></description>
+      <id>f5e99780-097e-4639-9e91-e7d21a6a50f5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dummy123'</defaultValue>
+      <description></description>
+      <id>7eac78b8-ce03-4741-a20c-7fee2cc6174e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

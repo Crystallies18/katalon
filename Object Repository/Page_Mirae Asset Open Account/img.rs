@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>b2a1b659-6f04-4560-93e0-8eb6288ebe29</elementGuidId>
+   <imagePath>https://storage.googleapis.com/dev-mirae-ooa3/ooa/images/home-banner.webp</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>https://storage.googleapis.com/dev-mirae-ooa3/ooa/images/home-banner.webp</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.box-startup-banner.MuiBox-root.css-0 > a > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src, '${GlobalVariable.imgLoginUrl}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d54c318c-2e48-41e7-a90a-2d4e3e9098a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://storage.googleapis.com/dev-mirae-ooa3/ooa/images/home-banner.webp</value>
+      <webElementGuid>4de1ba69-c088-4683-933f-69a79be28790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>fb5c7302-300b-478b-982e-266453c3675b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[1]/div[@class=&quot;modal-startup-banner MuiModal-root css-79ws1d-MuiModal-root&quot;]/div[@class=&quot;box-startup-banner MuiBox-root css-0&quot;]/a[1]/img[1]</value>
+      <webElementGuid>77a986de-7934-4167-96a8-0621b915c5f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://storage.googleapis.com/dev-mirae-ooa3/ooa/images/home-banner.webp')]</value>
+      <webElementGuid>e83f59c1-0b1d-46ff-9365-fece3f39e1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/img</value>
+      <webElementGuid>9f45dbaa-6c45-4441-9ea9-f726610c1871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://storage.googleapis.com/dev-mirae-ooa3/ooa/images/home-banner.webp']</value>
+      <webElementGuid>7f87f182-d456-48a5-92fa-3ecd3bc3f748</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
